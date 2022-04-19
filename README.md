@@ -1,4 +1,4 @@
-# Birch Paper
+# Birch Paper (For 1.18.2+)
 A datapack that allows you to craft paper from birch logs.
 # Recipe:
 ![](recipe.png)
