@@ -1,0 +1,15 @@
+{
+    "type": "crafting_shaped",
+    "result": {
+        "item": "minecraft:paper",
+        "count": 12
+    },
+    "pattern": [
+        "111"
+    ],
+    "key": {
+        "1": {
+            "item": "minecraft:birch_log"
+        }
+    }
+}
